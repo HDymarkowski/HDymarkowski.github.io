@@ -4,20 +4,24 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at The University of Glasgow where my Research is focused on Computer Architecture, particularly AI/ML FPGA accelerators. I am supervised by Dr Jose Cano Reyes.
+
+## gicLAB
+
+I am a member of The Glasgow Intelligent Computing Laboratory (gicLAB), a research group in the School of Computing Science in the University of Glasgow. gicLAB is a part of the Glasgow Systems Section GLASS) where our research focuses on the intersection of Computing Systems and Machine Learning .
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Architecture:** AI/ML Accelerators, Security
+- **Machine Learning:** Computer Vision, LLMs, GANs
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Oct. 2024]** Officially Started my PhD in the University of Glasgow!
+
+<!--
 
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+-->
